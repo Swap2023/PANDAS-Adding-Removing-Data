@@ -1,4 +1,4 @@
-# PANDAS-Adding-Removing-Data #
+# PANDAS#-Adding-Removing-Data #
 Adding / Removing 
 1. Series - # To create a series. ( Homogeneous Data, Size Immutable, Values Mutable )
 pd.Series(data, index=, dtype=, name=) 
